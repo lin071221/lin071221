@@ -1,9 +1,9 @@
 <h1align="center">嗨👋，我是西瓜</h1>
 <h3align="center">一名高中生</h3>
 
-<palign="left"> <img src="https ://komarev. com/ghpvc/?username=lin071221&label=Profile%20views&color=0e75b6&style=flat" alt="lin071221" /> </p>
+<palign="left"> <img src="https://komarev.com/ghpvc/?username=lin071221&label=Profile%20views&color=0e75b6&style=flat" alt="lin071221" /> </p>
 
-<palign="left"> <a href="https:// github.com/ryo- ma/github-profile-tropy"><img src="https://github-profile-tropy.vercel.app/?username=lin071221" alt="lin071221" /></a> </p>
+<palign="left"> <a href="https://github.com/ryo-ma/github-profile-tropy"><img src="https://github-profile-tropy.vercel.app/?username=lin071221" alt="lin071221" /></a> </p>
 
 <h3align ="left">與我聯絡：</h3>
 <palign="left">
